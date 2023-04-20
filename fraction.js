@@ -50,9 +50,6 @@ class Fraction {
   }
 }
 
-
-
-
 //adithi
 //To divide and compare two fractions
 
