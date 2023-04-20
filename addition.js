@@ -22,7 +22,6 @@ console.log(calc.getResult());
 
 
 //subraction(viji)
-
 class Fraction {
   constructor(numerator, denominator) {
     this.numerator = numerator;
