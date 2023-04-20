@@ -1,3 +1,5 @@
+ main
+code
 class Calculator {
   constructor() {
     this.result = 0;
@@ -19,3 +21,4 @@ calc.add(10);
 console.log(calc.getResult()); 
 
 //multipication(adishree)
+main
