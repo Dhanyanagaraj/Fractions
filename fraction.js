@@ -50,8 +50,17 @@ class Fraction {
   }
 }
 
-// Example usage
-const fraction1 = new Fraction(3, 4);
-const fraction2 = new Fraction(1, 2);
-const result = fraction1.subtract(fraction2);
-console.log(result.toString()); 
+
+
+
+//adithi
+//To divide and compare two fractions
+
+const prompt = require('prompt-sync')();
+
+class Fractions {
+  constructor(numerator,denominator) {
+    this.numerator = numerator;
+    this.denominator = denominator;
+  }
+  divide() {
